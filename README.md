@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Data Science]** with experience in **[python]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Data Science** with experience in **python**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[SQL & Databases, Data Vizualization]**
 - 🔭 Working on: **[To be determined]**
